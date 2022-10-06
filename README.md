@@ -1,6 +1,6 @@
-#This following repo consist of 3 tasks
+# This following repo consist of 3 tasks
 
-#Task1
+# Task1
 ### first commit with readme file changing form Dev1 branch
 
 ### added Screenshots 
@@ -10,4 +10,8 @@
 
 #### 3. git merge(merges current branch with specified branch)
 
-#Task2
+# Task2
+1.Proper open source structure
+2.Proper Readme
+3.Add 2 collaborator
+4.Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
