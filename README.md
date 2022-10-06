@@ -11,6 +11,10 @@
 #### 3. git merge(merges current branch with specified branch)
 
 # Task2
-
-# Task 3
+1.Proper open source structure
+2.Proper Readme
+3.Add 2 collaborator
+4.Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 added screenshot of stash command
+# Task3
+completed till stashing and added screenshot for conflit(4.png) and stashing(5.png)
