@@ -15,3 +15,7 @@
 2.Proper Readme
 3.Add 2 collaborator
 4.Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+
+# Task3
+Added description and changed index .html
+
