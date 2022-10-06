@@ -1,6 +1,6 @@
-#This following repo consist of 3 tasks
+# This following repo consist of 3 tasks
 
-#Task1
+# Task1
 ### first commit with readme file changing form Dev1 branch
 
 ### added Screenshots 
@@ -10,4 +10,7 @@
 
 #### 3. git merge(merges current branch with specified branch)
 
-#Task2
+# Task2
+
+# Task 3
+added screenshot of stash command
